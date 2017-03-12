@@ -45,6 +45,8 @@ If that doesn't work for you, configure it to an appropriate port by updating th
 
 ![Run Application](/assets/startapp.png)
 
+> Alternatively, you can build the jar using "mvn clean package" and run the built jar, using "java -jar target/tnut.jar" on the terminal
+
 * **Launch Swagger UI**<br>
 The [T-Nut](http://blog.balajeetm.com/blog/2017/02/21/technical-nuts/) web application comes with [swagger](http://swagger.io/) support.<br>
 [Swagger](http://swagger.io/) is the most popular API framework for documenting ReST Apis.<br>
