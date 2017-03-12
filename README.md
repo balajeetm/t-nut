@@ -22,7 +22,7 @@ I'll explain how to get rolling if you use [STS](https://spring.io/tools/sts) as
 
 ## Steps to get rolling
 
-* **Import the Project**<br>
+* <u><b>Import the Project</b></u><br>
 Once you open STS, and choose a workspace, you should see package explorer as your left pane as shown below.<br>
 If you do not see package explorer, just choose "Window" on the STS menu and say "Show View" and choose Package Explorer.
 ![Package Explorer](/assets/packageexplorer.png)
