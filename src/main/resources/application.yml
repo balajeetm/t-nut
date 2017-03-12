@@ -1,0 +1,10 @@
+management:
+  context-path: /manage
+  security:
+    enabled: false
+    
+spring:
+  devtools:
+    livereload:
+      enabled: false
+    
