@@ -13,7 +13,7 @@ For the details jump over to [t-nut](http://blog.balajeetm.com/blog/2017/02/21/t
 
 This repo hosts the solutions for few programming t-nuts we encounter and address in my [blog](http://blog.balajeetm.com/)<br>
 The solutions hosted in the repo are shown below. Please hop on to the below links for details on their usage
-* [Singly Linked List Reversal in Pockets](/src/main/java/com/balajeetm/tnut/controller)
+* [Singly Linked List Reversal in Pockets](/t-nuts/reverse-in-pockets/)
 
 ## How to use this repo
 
